@@ -16,3 +16,7 @@ int main() {
     cout<< "Your number is: "<< reset << endl;
      return 0;
 }
+//Enter bit to be set: 45
+//Enter bit to be reset: 34
+//Your number is: 8222
+//Your number is: 26
